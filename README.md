@@ -1,5 +1,7 @@
 # AutoinstallQuadSDK
 
+HAVE POTENTIAL BUG ISSUES.DONT USE UNLESS FIXED.
+
 For lazy use of installatipm without type more.
 
 Just clone, and sudo it.
